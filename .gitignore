@@ -1,0 +1,53 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pyre/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter/IPython runtime artifacts
+.ipynb_checkpoints/
+.ipython/
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and local runtime files
+*.log
+*.tmp
+*.bak
+*.sqlite-journal
+*.db-journal
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Project-specific temporary/exploration files
+sample_pdf_text.txt
+section_snippets.txt
+task_description_extracted.txt
+PDF_version_1000.zip

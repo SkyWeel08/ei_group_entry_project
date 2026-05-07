@@ -1,0 +1,12 @@
+table_name,file_name,rows
+Bit Record,bit_record.csv,56
+Casing Liner Tubing,casing_liner_tubing.csv,67
+Core Information,core_information.csv,14
+Gas Reading Information,gas_reading_information.csv,316
+Lithology Information,lithology_information.csv,303
+Log Information,log_information.csv,41
+Perforation Information,perforation_information.csv,20
+Pore Pressure,pore_pressure.csv,568
+Stratigraphic Information,stratigraphic_information.csv,168
+Survey Station,survey_station.csv,1031
+Welltest Information,welltest_information.csv,2

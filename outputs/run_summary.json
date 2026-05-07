@@ -1,0 +1,11 @@
+{
+  "reports_total": 1000,
+  "operations_total": 10597,
+  "equipment_failures_total": 240,
+  "drilling_fluid_rows_total": 2830,
+  "keywords_rows_total": 11988,
+  "nds_events_total": 4,
+  "nds_events_matched": 3,
+  "quality_checks_total": 5952,
+  "db_path": "C:\\Users\\wlf01\\Downloads\\RA DS - 2026\\Task_DS\\ei_group_entry_project\\ei_reports.db"
+}
